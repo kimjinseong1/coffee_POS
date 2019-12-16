@@ -86,8 +86,7 @@ public class coffeedao {
 		}
 		
 		return result;
-	}//coffeeadd
-	
+	}
 	
 	
 	
